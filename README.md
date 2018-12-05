@@ -1,2 +1,3 @@
 # OptionsPricing
-Using Black Model
+Using multiple models to price options.
+
